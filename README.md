@@ -1,4 +1,4 @@
-# music_ai_gen
+# Player_ai
 
 A new Flutter project.
 
