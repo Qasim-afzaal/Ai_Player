@@ -28,27 +28,7 @@ The app is built on the **MVC pattern with GetX**, ensuring separation of concer
 
 ## 🏗️ Architecture (GetX MVC)
 
-```
 
-lib/
-├── main.dart
-├── app_routes.dart
-├── bindings/
-│   └── home_binding.dart
-├── controllers/
-│   └── player_controller.dart
-├── models/
-│   └── track_model.dart
-├── services/
-│   ├── ai_service.dart
-│   └── storage_service.dart
-├── views/
-│   ├── home_view.dart
-│   └── player_view.dart
-├── widgets/
-│   └── track_tile.dart
-└── utils/
-└── audio_helper.dart
 
 ````
 
